@@ -1,0 +1,26 @@
+{
+  "name": "dxfeedquix",
+  "version": "1.0.0",
+  "description": "stream dxfeed data to quix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jblanfrey/dxfeedquix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jblanfrey/dxfeedquix/issues"
+  },
+  "homepage": "https://github.com/jblanfrey/dxfeedquix#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "kafkajs": "^2.2.4",
+    "ws": "^8.18.3"
+  }
+}
